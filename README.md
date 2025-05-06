@@ -11,9 +11,10 @@ This is a simple React application that allows users to search for images using 
 
 ## 📸 Preview
 
-![alt text](image.png)
+![Preview](public/imagefinder.png)
 
-> _Replace this screenshot with your own exported project preview!_
+
+
 
 ## 🛠️ Technologies Used
 - React (Hooks)
